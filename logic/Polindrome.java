@@ -1,4 +1,6 @@
+package logic;
 //  ** polindrome number 
+
 // **  num =121;
 // **  and 121 opposite digit is also 121 thats why it is polindrome number
 // **  if num == num2 means it is polindrome

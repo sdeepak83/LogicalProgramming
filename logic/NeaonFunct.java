@@ -1,3 +1,4 @@
+package logic;
 //              *    NEAON NUMBER
 
 // *  num=9
